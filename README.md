@@ -10,7 +10,7 @@ Each chain in the `chains` folder may contain the following files:
   information about each. These tokens have been verified using the contract
   verifier at https://subnets.avax.network/tools/verify-contract.
 - `gensesis.json`: For chains configured using
-  (Subnet EVM)[https://github.com/ava-labs/subnet-evm], this contains the
+  [Subnet EVM](https://github.com/ava-labs/subnet-evm), this contains the
   genesis configuration parameters.
 - `upgrade.json`: Contains network upgrades for the chain. For more
   information, see 
