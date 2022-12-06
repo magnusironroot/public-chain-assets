@@ -108,7 +108,7 @@
     "assetType": "Unlimited Cap",
     "contractType": "ERC-20",
     "chainId": 53935,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/53935/contracts/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a0a2d1a/chains/53935/contracts/0x77f2656d04E158f915bC22f07B779D94c1DC47Ff/logo.png",
     "tokenColor": "#d6db60"
   },
   {
@@ -172,7 +172,7 @@
     "assetType": "Unlimited Cap",
     "contractType": "ERC-20",
     "chainId": 53935,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/3e1b653/chains/53935/contracts/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png",
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a0a2d1a/chains/53935/contracts/0xCCb93dABD71c8Dad03Fc4CE5559dC3D89F67a260/logo.png",
     "tokenColor": "#d6db60"
   },
   {
