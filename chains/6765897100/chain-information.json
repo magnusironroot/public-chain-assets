@@ -16,7 +16,7 @@
     "symbol": "CAYG",
     "description": "CAYG is the central token on the Green Dot Subnet and used to pay gas for all transactions.",
     "decimals": 18,
-    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f81d275/chains/6765897100/token-logo.png"
+    "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a0a2d1a/chains/6765897100/token-logo.png"
   },
   "utilityAddresses": {
     "multicall": "0x565d6f203b7c562Ede758F54Fbf1F1c551817C49"
@@ -30,5 +30,5 @@
   ],
   "network": "avalanche",
   "primaryColor": "#85BC22",
-  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/f81d275/chains/6765897100/chain-logo.png"
+  "logoUri": "https://glacier-api.avax.network/proxy/chain-assets/a0a2d1a/chains/6765897100/chain-logo.png"
 }
